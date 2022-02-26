@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catechisme for souldiers; to save soules and prevent blood shewing the termes upon which the profession of a souldier may be undertaken, and the rules and directions whereby it is to be managed: and the great guilt of sinne and danger of judgment that hangs over those that undertake it in an unrighteous way.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74720</idno>
+            <idno type="STC">Thomason E2124_2</idno>
+            <idno type="STC">ESTC R210170</idno>
+            <idno type="EEBO-CITATION">99868993</idno>
+            <idno type="PROQUEST">99868993</idno>
+            <idno type="VID">170579</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74720)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170579)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 242:E2124[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catechisme for souldiers; to save soules and prevent blood shewing the termes upon which the profession of a souldier may be undertaken, and the rules and directions whereby it is to be managed: and the great guilt of sinne and danger of judgment that hangs over those that undertake it in an unrighteous way.</title>
+               </titleStmt>
+               <extent>13, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.M. for Edward Thomas, at the Adam and Eve in Little Britaine,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "Decemb: Xber. 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170579:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 100 -->
+            <p>A Catechiſme FOR Souldiers; to ſave Soules and <hi>prevent Blood.</hi>
+            </p>
+            <p>
+               <hi>Shewing the termes upon which the pro<g ref="char:EOLhyphen"/>feſſion of a Souldier may be underta<g ref="char:EOLhyphen"/>ken, and the rules and directions where<g ref="char:EOLhyphen"/>by it is to be managed: and the great guilt of ſinne and danger of Judgment that hangs over thoſe that undertake it in an unrighteous way.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. M.</hi> for <hi>Edward Thomas,</hi> at the <hi>Adam</hi> and <hi>Eve</hi> in <hi>Little Britaine,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:170579:2"/>
+            <!-- PDF PAGE 101 -->
+            <pb n="3" facs="tcp:170579:2"/>
+            <!-- PDF PAGE 101 -->
+            <head>A <hi>CATECHISM</hi> for Souldiers; To ſave Souls, and prevent Blood</head>
+            <p>Queſt. <hi>
+                  <seg rend="decorInit">W</seg>Hat are you by Profeſſion?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> A Souldier.</p>
+            <p>Q. <hi>Is that a Lawfull profeſſion?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yea, if it be un<g ref="char:EOLhyphen"/>dertaken upon Juſt and Righteous termes, and managed according to Gods directions.</p>
+            <p>Q. <hi>How prove you that it is a lawfull profeſſion?</hi>
+            </p>
+            <pb n="4" facs="tcp:170579:3"/>
+            <!-- PDF PAGE 102 -->
+            <p>
+               <hi>A.</hi> Firſt, Becauſe God appointed his people thereunto in ſeveral pla<g ref="char:EOLhyphen"/>ces of the holy Scripture.</p>
+            <p>Secondly. The holy Saints of God were exerciſed therein, as, <hi>Abraham, Joſhua, David, Cornelius,</hi> and others.</p>
+            <p>Thirdly, becauſe God gave dire<g ref="char:EOLhyphen"/>ctions for the managing of Warre, whereas he gives no directions for the exerciſe of ſin.</p>
+            <p>Fourthly, Becauſe <hi>John</hi> the Baptiſt, when the Queſtion was propoſed to him by Souldiers, what they ſhould doe, <hi>Luke</hi> 3.14. did not diſcharge them from their Office, but required them to manage it righteouſly, <hi>viz. That they ſhould doe Violence to no man, and be content with their wages.</hi>
+            </p>
+            <p>Q. <hi>What are the termes and directi<g ref="char:EOLhyphen"/>ons that are to be obſerved, that the work of a Souldier may be lawfully perform<g ref="char:EOLhyphen"/>ed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are of divers ſorts.</p>
+            <pb n="5" facs="tcp:170579:3"/>
+            <!-- PDF PAGE 102 -->
+            <p>Q. <hi>What is the firſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The firſt is that the Warr be Juſt and undertaken upon a Righte<g ref="char:EOLhyphen"/>ous cauſe, and not for the carrying on of Violence and Oppreſſion.</p>
+            <p>Q. <hi>What is the ſecond?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The ſecond is, that the Warre be neceſſary upon a matter of weight and publique concernment, after the attempt of all fair and juſt means for the compoſure of the difference, and for the preventing of blood.</p>
+            <p>Q. <hi>What is the third?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That the Commiſſion for the action of War be derived from God, who is the Lord of Hoſts; by the power and Authority of thoſe who are his Subſtitutes for that purpoſe, unto whom he hath committed the power of the Sword; as are the Su<g ref="char:EOLhyphen"/>preme, and the Lawful Magiſtrates.</p>
+            <pb n="6" facs="tcp:170579:4"/>
+            <!-- PDF PAGE 103 -->
+            <p>Q. <hi>What is the fourth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The fourth is, that the juſt cauſe of the Warre be manifeſted and publiſhed, for the conviction of the oppoſite party; and for the ſatiſ<g ref="char:EOLhyphen"/>faction of thoſe that are to be engaged in it, and for the directions of the conſciences of all the people, where they are to give their aſſiſtance in it.</p>
+            <p>Q. <hi>What is the fifth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That the Warr be undertaken againſt ſuch a perſon as is liable to ſuch a violent oppoſition, which can<g ref="char:EOLhyphen"/>not be the Supreme Magiſtrate law<g ref="char:EOLhyphen"/>fully eſtabliſhed, in regard of thoſe that are his Subjects, and under his Government, <hi>Rom.</hi> 13.1, 2, 3. 1 <hi>Pet.</hi> 2.13, 14, 15.</p>
+            <p>Q. <hi>What is the ſixth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That the Warre be undertaken and managed to a righteous end, and ſuch as is proportionable to the
+<pb n="7" facs="tcp:170579:4"/>
+               <!-- PDF PAGE 103 -->buſineſs of a Warre, <hi>viz.</hi> That it be undertaken for the glory of God and the Publique good, and ſuch a pub<g ref="char:EOLhyphen"/>lique good, as may be anſwerable for the hazards, and the miſchiefs of a War: For private inconveniences are to be ſuffered rather than the publi<g ref="char:EOLhyphen"/>que peace diſturbed, and ſmall incon<g ref="char:EOLhyphen"/>veniences, though publique, are ra<g ref="char:EOLhyphen"/>ther to be born, than the great miſ<g ref="char:EOLhyphen"/>chiefs of a War ſhould be hazarded.</p>
+            <p>Q. <hi>What is the ſeventh?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That the Warre be carried on with righteous and moderate affe<g ref="char:EOLhyphen"/>ctions, not delighting in the work of deſtruction, and ruine of any, but ſeeking the reduction of Offendors, the preſervation of the Innocent, and the righteous eſtabliſhment of all <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hings; by no means aiming to ad<g ref="char:EOLhyphen"/>vance our ſelves, by the ruines and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ammages of others, nor at private <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>evenge, nor yet to force the conſci<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nces of any in matters of Religion,
+<pb n="8" facs="tcp:170579:5"/>
+               <!-- PDF PAGE 104 -->contrary to the ſetled ſtate of things of that nature, without ſatisfacti<g ref="char:EOLhyphen"/>on offered.</p>
+            <p>Q. <hi>What is the eighth.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That they that are engaged in the War make uſe of none but law<g ref="char:EOLhyphen"/>full and righteous means, for the ob<g ref="char:EOLhyphen"/>taining of their juſt and righteous ends, not plundering the Innocent, nor doing hurt unto any, more than is neceſſary or apparently requiſite for the procurement of a juſt Con<g ref="char:EOLhyphen"/>cluſion of the War; for God hath no need of the Devil, nor hath he made Vertue an imperfect thing, that it ſhould ſtand in need of Vice to be its fellow. Souldier, or to joyn with it for the procurement of its righte<g ref="char:EOLhyphen"/>ous purpoſes.</p>
+            <p>Q. <hi>What is the Nineth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That all faithfulneſſe be uſed in Treaties and Agreements.</p>
+            <pb n="9" facs="tcp:170579:5"/>
+            <!-- PDF PAGE 104 -->
+            <p>Q. <hi>What is the Tenth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That nothing be done againſt Oathes and Covenants, 9 of <hi>Joſhua</hi> compared with 1 <hi>Samuel</hi> 
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+            <p>Q. <hi>What is the Eleventh?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Eleventh is, that other things being rectified, as aforeſaid, the action be managed with re<g ref="char:EOLhyphen"/>ligious courage, waiting upon God with patience and ſubmiſſion in all Defeats, wherewith the enterprizes ſhall be encountered; receiving them either as chaſtiſements for ſin, or as tryals of our Faith and Con<g ref="char:EOLhyphen"/>ſtancy in Gods Work, not as diſ<g ref="char:EOLhyphen"/>charges from the purſuance of that Duty, which God hath called and enabled unto, <hi>Judg.</hi> 20. <hi>v.</hi> 18, 19, 20, 21, and <hi>v.</hi> 24, 25, 28. and looking con<g ref="char:EOLhyphen"/>ſtantly to God, and depending upon him for all ſucceſſe and Victory.</p>
+            <pb n="10" facs="tcp:170579:6"/>
+            <!-- PDF PAGE 105 -->
+            <p>Q. <hi>What is the Twelfth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That a ſtrict obedience be per<g ref="char:EOLhyphen"/>formed unto the Command of Su<g ref="char:EOLhyphen"/>periours, though never ſo hazardous, where they appear not contradicto<g ref="char:EOLhyphen"/>ry to the rules of God, or of any au<g ref="char:EOLhyphen"/>thority that is Superiour unto them.</p>
+            <p>Q. <hi>What is the laſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That God be acknowledged with thankfulneſſe in all ſucceſſes and Victories; and mercy uſed to ſubdued enemies, where it may be done without publike miſchief, 2 <hi>Chron.</hi> 20.26. 2 <hi>Kings</hi> 6.21, 22. 2 <hi>Chrou.</hi> 28. from the 11. to the 16.</p>
+            <p>Q. <hi>What is the danger of the under<g ref="char:EOLhyphen"/>taking of an unjust War?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The danger is very great upon ſeveral accompts; Firſt, becauſe you ſhould fight againſt God, who is the Protector of all righte<g ref="char:EOLhyphen"/>ouſneſſe, and of the Authority of
+<pb n="11" facs="tcp:170579:6"/>
+               <!-- PDF PAGE 105 -->the lawfull Magiſtrate, and of all the juſt Rights of his People.</p>
+            <p>Secondly, Becauſe he that fights in an unjuſt War, is a Murtherer of every man that he deſtroyes, and a Thief in every thing that he plun<g ref="char:EOLhyphen"/>ders; eſpecially, when he knows it to be unjuſt, or is not enabled by a right Commiſſion.</p>
+            <p n="3">3. Becauſe, though God may ſuf<g ref="char:EOLhyphen"/>fer a man to proſper in ſuch a War, for the correction of others; or for thoſe ends that are beſt known unto him: yet no man can have any aſ<g ref="char:EOLhyphen"/>ſurance that God will be with him in ſuch an Action; but that he may be left unto deſtruction and damna<g ref="char:EOLhyphen"/>tion in every attempt that he ſhall adventure upon.</p>
+            <p>Fourthly, becauſe he that acts in ſuch a War, is not onely guilty of all the miſchiefs by himſelf commit<g ref="char:EOLhyphen"/>ted, but of all the Murthers, Rapines, and Violences, that are committed by any other in the whole Warre;
+<pb n="12" facs="tcp:170579:7"/>
+               <!-- PDF PAGE 106 -->which are encouraged by his con<g ref="char:EOLhyphen"/>ſent and aſſiſtance; and is anſwer<g ref="char:EOLhyphen"/>able to God for all the blood that is ſpilt; and bound to reſtitution for all injuries that are done; a load ſuffi<g ref="char:EOLhyphen"/>cient to ſink him to the depth of hell.</p>
+            <p>Q. <hi>Is it neceſſary that every ſoul<g ref="char:EOLhyphen"/>dier ſhould be ſatisfied of the Juſtneſſe of the Cauſe of a War?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> All Volunteers are anſwer<g ref="char:EOLhyphen"/>able for the Juſtneſſe of the Cauſe; and therefore ought to be ſatisfied of it in their Conſciences; but they that ſerve upon Command, under their lawfull Prince, are not bound alwayes perfectly to know it; but it concerns them to ſee that there be nothing manifeſt to the contrary.</p>
+            <p>Q. <hi>May the Sword then be uſed in no caſe without the Commiſſion of the Supream Magistrate.</hi>
+            </p>
+            <pb n="13" facs="tcp:170579:7"/>
+            <!-- PDF PAGE 106 -->
+            <p>
+               <hi>A.</hi> Yes, In caſe of Neceſſity for private defence againſt private vio<g ref="char:EOLhyphen"/>lence, where there is not opportu<g ref="char:EOLhyphen"/>nity of appeale to the Magiſtrate for his Protection; and alſo in caſe where the power of the ſupream Magiſtrate is obſtructed by violence, or rendered uſeleſs by abſence, in ſuch caſes ſometimes the Law may give a Commiſſion, and ſometimes Commiſſions may proceed from a delegated Authority.</p>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Pſalm 50.22.</hi>
+                  </bibl>
+                  <p>Now conſider this ye that forget God, leaſt he tear you in pie<g ref="char:EOLhyphen"/>ces, and there be none to deliver you.</p>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
